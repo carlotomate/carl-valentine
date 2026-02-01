@@ -354,15 +354,7 @@ h3 {
 
 /* Footer */
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 20px;
-    width: 100%;
-    background: rgba(255, 255, 255, 0.1); /* Semi-transparent white */
-    backdrop-filter: blur(10px); /* Frosted glass effect */
-    border-top: 1px solid rgba(255, 255, 255, 0.2); /* Soft border */
-    margin-top: auto; /* Push footer to the bottom */
-    color: var(--color5);
+  display: none;
 }
 
 .hide{
